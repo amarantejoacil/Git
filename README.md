@@ -1,5 +1,6 @@
 # Git
 cd //navegar
+
 clear ou cls //limpar
 dir ou ls //listar
 mkdir //criar diretorio
